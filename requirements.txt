@@ -2,3 +2,5 @@ streamlit
 python-dotenv
 crewai
 PyPDF2
+chromadb==0.4.24
+pydantic==1.10.13
